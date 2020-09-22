@@ -10,3 +10,7 @@ Since most of the colors can be defined using **Red**, **Green**, and **Blue**. 
 ```
 To Exit the Application, just press the ESC key. 
 ```
+## Sample Output:
+
+<img src="https://github.com/geekquad/Color-Recognizer/blob/master/output/sample2.png">
+<img src="https://github.com/geekquad/Color-Recognizer/blob/master/output/sample1.png">
